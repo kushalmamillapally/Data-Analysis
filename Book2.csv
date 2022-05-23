@@ -1,0 +1,21 @@
+Country,Risk_factor,Deaths
+High SDI,Low Physical Activity,263615.7
+High SDI,Unsafe Sanitaion,1002.243
+High SDI,Diabetes,1223943.3
+High SDI,Air Pollutiton,453006.9
+High SDI,Unsafe Water,1342.622
+H-M SDI,Low Physical Activity,351398.09
+H-M SDI,Unsafe Sanitaion,5393.608
+H-M SDI,Diabetes,1216851.5
+H-M SDI,Air Pollutiton,905345
+H-M SDI,Unsafe Water,10665.986
+L-M SDI,Low Physical Activity,163811.79
+L-M SDI,Unsafe Sanitaion,445507.247
+L-M SDI,Diabetes,989715.4
+L-M SDI,Air Pollutiton,1137645.9
+L-M SDI,Unsafe Water,624324.447
+Low SDI,Low Physical Activity,73015.33
+Low SDI,Unsafe Sanitaion,510895.701
+Low SDI,Diabetes,507076.6
+Low SDI,Air Pollutiton,969920.1
+Low SDI,Unsafe Water,675749.735
